@@ -1,3 +1,4 @@
-*/pascalVOC
-*/overfit.pth.tar
-*/__pycache__
+pascalVOC
+*.tar
+__pycache__
+*.pyc
